@@ -17,8 +17,5 @@ The dashboard helps HR teams identify attrition trends across departments, job r
 - Certain job roles contribute more to attrition
 - Certain Education Fields are increased in attrition 
 
-## Dashboard Preview
-![Dashboard](dashboard_preview.png)
-
 ## Conclusion
 This Excel dashboard provides interactive and data-driven insights to support HR decision-making and employee retention strategies.
